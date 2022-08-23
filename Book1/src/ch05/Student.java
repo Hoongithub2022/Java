@@ -1,6 +1,7 @@
 package ch05;
 
-public class p144 {
+public class Student {
+
 	int studentID;
 	String studentName;
 	int grade;

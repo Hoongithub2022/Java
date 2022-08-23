@@ -8,9 +8,8 @@ public class p141 {
 	
 	public String getStudentName() {
 		return studentName;
-	
+	}
 		public void setStudentName(String name) {
 			studentName = name;
-		}
 	}
 }
