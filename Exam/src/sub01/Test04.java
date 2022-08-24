@@ -2,6 +2,11 @@ package sub01;
 
 import java.util.Scanner;
 
+/*
+ * 날짜 : 0000/00/00
+ * 이름 : 홍길동
+ * 내용 : 자바 조건문 연습문제
+ */
 public class Test04 {
 	public static void main(String[] args) {
 		
@@ -13,15 +18,15 @@ public class Test04 {
 		
 		System.out.println("입력한 점수는 "+score+"입니다.");
 		
-		if (score >=90 && score <=100) {
+		if(score >= 90 && score <= 100) {
 			grade = 'A';
-		}else if (score >=90&& score<90) {
+		}else if(score >= 80 && score < 90) {
 			grade = 'B';
-		}else if (score >=70&& score<70) {
+		}else if(score >= 70 && score < 80) {
 			grade = 'C';
-		}else if (score >=60&& score<60) {
+		}else if(score >= 60 && score < 70) {
 			grade = 'D';
-		}else (score >=50&& score<50) {
+		}else {
 			grade = 'F';
 		}
 		
