@@ -1,11 +1,16 @@
 package ch06;
 
-public class Student {
+public class Student1 {
 	public static int serialNum = 1000;
-	public int studentId;
+	public int studentID;
 	public String studentName;
 	public int grade;
 	public String address;
+	
+	public Student1() {
+		serialNum++;
+		studentID = serialNum;
+	}
 	
 	public String getStudentName() {
 		return studentName;
