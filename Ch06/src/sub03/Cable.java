@@ -1,4 +1,4 @@
-package sub3;
+package sub03;
 
 public class Cable implements Socket {
 
