@@ -33,4 +33,15 @@
 ## Ch06
 - sub1.추상클래스 실습하기
 - sub2.인터페이스 실습하기
+
+## Ch07
+- sub1.예외처리 실습하기
+- sub2.예외던지기 실습하기
+
+## Ch08
+- sub1.Java Object 클래스 실습하기
+- sub2.문자열 클래스 String 실습하기
+- sub3.Java Wrapper 클래스 실습하기
+- sub4.수학 클래스 실습하기
+- sub5.날짜시간 클래스 실습하기
 # Java
