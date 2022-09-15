@@ -57,6 +57,10 @@
 - sub1▫파일 / 문자 입출력 스트림 실습하기
 - sub2▫보조 스트림 실습하기
 - sub3▫직렬화 / 역직렬화 실습하기
-
+- sub4▫프로퍼티 실습하기
 ## 🟠Ch11
 - sub1▫JDBC 실습하기
+- sub2▫JDBC SQL Insert / Delete / Update 실습하기
+- sub3▫JDBC Select 실습하기
+- sub4▫JDBC PreparedStatment 실습하기
+- sub5▫트렌젝션 실습하기
